@@ -1,4 +1,5 @@
 To print length of an array and elements of array
+Updating in local machine
 #!/bin/bash
 array=(10 20 30 40 50)
 length=${#array[@]}
